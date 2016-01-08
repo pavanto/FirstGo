@@ -2,7 +2,7 @@ package prime_test
 
 import (
     "fmt"
-    "github.com/pavanto/FirstGo"
+    "github.com/pavanto/FirstGo/prime"
 )
 
 func ExampleIsPrime() {
