@@ -1,7 +1,7 @@
 // Package prime contains a helper function to check whether
 // an integer is prime. In the future, it may contain other
 // functions, but the API will remain backward-compatible.
-package prime
+package FirstGo
 
 // IsPrime checks if candidate is a prime number.
 func IsPrime(candidate uint64) bool {
